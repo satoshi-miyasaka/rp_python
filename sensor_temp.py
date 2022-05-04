@@ -1,4 +1,4 @@
-#RasPaiPico
+#RasPiPico
 import machine
 import utime
 sensor_temp = machine.ADC(4)
